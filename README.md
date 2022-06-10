@@ -29,7 +29,7 @@ Bagus Setiawan || 1202199008 || IT-02-01
 
 ![Intall3](1/Install_laravel3.jpg)
 
-7. Buka browser dan buka https yang ada cmd
+7. Buka browser dan buka link yang ada cmd
 8. Laravel sudah bisa digunakan
 
 ![Laravel](1/laravel.jpg)
